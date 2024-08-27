@@ -49,7 +49,7 @@
             this.BtRegistrarse.TabIndex = 2;
             this.BtRegistrarse.Text = "Registrarse";
             this.BtRegistrarse.UseVisualStyleBackColor = true;
-            this.BtRegistrarse.Click += new System.EventHandler(this.button3_Click);
+            this.BtRegistrarse.Click += new System.EventHandler(this.BtRegistrarse_Click);
             // 
             // Form1
             // 

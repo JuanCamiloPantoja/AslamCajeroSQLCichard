@@ -10,18 +10,16 @@ using System.Windows.Forms;
 
 namespace CajeroAslamSqlCichard
 {
-    public partial class Form1 : Form
+    public partial class Registrar : Form
     {
-        public Form1()
+        public Registrar()
         {
             InitializeComponent();
         }
 
-        private void BtRegistrarse_Click(object sender, EventArgs e)
+        private void label4_Click(object sender, EventArgs e)
         {
-            Registrar registrar = new Registrar();
-            registrar.Show();
-            this.Hide();
+
         }
     }
 }

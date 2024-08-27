@@ -1,0 +1,11 @@
+C:\Users\Ash20\OneDrive\Escritorio\AslamCajeroSqlCichard\CajeroAslamSqlCichard\CajeroAslamSqlCichard\bin\Debug\CajeroAslamSqlCichard.exe.config
+C:\Users\Ash20\OneDrive\Escritorio\AslamCajeroSqlCichard\CajeroAslamSqlCichard\CajeroAslamSqlCichard\bin\Debug\CajeroAslamSqlCichard.exe
+C:\Users\Ash20\OneDrive\Escritorio\AslamCajeroSqlCichard\CajeroAslamSqlCichard\CajeroAslamSqlCichard\bin\Debug\CajeroAslamSqlCichard.pdb
+C:\Users\Ash20\OneDrive\Escritorio\AslamCajeroSqlCichard\CajeroAslamSqlCichard\CajeroAslamSqlCichard\obj\Debug\CajeroAslamSqlCichard.csproj.AssemblyReference.cache
+C:\Users\Ash20\OneDrive\Escritorio\AslamCajeroSqlCichard\CajeroAslamSqlCichard\CajeroAslamSqlCichard\obj\Debug\CajeroAslamSqlCichard.Form1.resources
+C:\Users\Ash20\OneDrive\Escritorio\AslamCajeroSqlCichard\CajeroAslamSqlCichard\CajeroAslamSqlCichard\obj\Debug\CajeroAslamSqlCichard.Properties.Resources.resources
+C:\Users\Ash20\OneDrive\Escritorio\AslamCajeroSqlCichard\CajeroAslamSqlCichard\CajeroAslamSqlCichard\obj\Debug\CajeroAslamSqlCichard.csproj.GenerateResource.cache
+C:\Users\Ash20\OneDrive\Escritorio\AslamCajeroSqlCichard\CajeroAslamSqlCichard\CajeroAslamSqlCichard\obj\Debug\CajeroAslamSqlCichard.csproj.CoreCompileInputs.cache
+C:\Users\Ash20\OneDrive\Escritorio\AslamCajeroSqlCichard\CajeroAslamSqlCichard\CajeroAslamSqlCichard\obj\Debug\CajeroAslamSqlCichard.exe
+C:\Users\Ash20\OneDrive\Escritorio\AslamCajeroSqlCichard\CajeroAslamSqlCichard\CajeroAslamSqlCichard\obj\Debug\CajeroAslamSqlCichard.pdb
+C:\Users\Ash20\OneDrive\Escritorio\AslamCajeroSqlCichard\CajeroAslamSqlCichard\CajeroAslamSqlCichard\obj\Debug\CajeroAslamSqlCichard.Registrar.resources
