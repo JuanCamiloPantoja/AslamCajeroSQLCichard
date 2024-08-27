@@ -38,6 +38,8 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
+            this.btGuardarRegis = new System.Windows.Forms.Button();
+            this.BtCancelar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -127,11 +129,32 @@
             this.textBox4.Size = new System.Drawing.Size(254, 22);
             this.textBox4.TabIndex = 9;
             // 
+            // btGuardarRegis
+            // 
+            this.btGuardarRegis.Location = new System.Drawing.Point(202, 367);
+            this.btGuardarRegis.Name = "btGuardarRegis";
+            this.btGuardarRegis.Size = new System.Drawing.Size(145, 47);
+            this.btGuardarRegis.TabIndex = 10;
+            this.btGuardarRegis.Text = "Guardar";
+            this.btGuardarRegis.UseVisualStyleBackColor = true;
+            // 
+            // BtCancelar
+            // 
+            this.BtCancelar.Location = new System.Drawing.Point(398, 367);
+            this.BtCancelar.Name = "BtCancelar";
+            this.BtCancelar.Size = new System.Drawing.Size(151, 47);
+            this.BtCancelar.TabIndex = 11;
+            this.BtCancelar.Text = "Cancelar";
+            this.BtCancelar.UseVisualStyleBackColor = true;
+            this.BtCancelar.Click += new System.EventHandler(this.BtCancelar_Click);
+            // 
             // Registrar
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.BtCancelar);
+            this.Controls.Add(this.btGuardarRegis);
             this.Controls.Add(this.textBox4);
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.textBox2);
@@ -161,5 +184,7 @@
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.Button btGuardarRegis;
+        private System.Windows.Forms.Button BtCancelar;
     }
 }
