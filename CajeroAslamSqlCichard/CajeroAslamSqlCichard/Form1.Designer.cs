@@ -43,9 +43,9 @@
             // 
             // BtRegistrarse
             // 
-            this.BtRegistrarse.Location = new System.Drawing.Point(260, 212);
+            this.BtRegistrarse.Location = new System.Drawing.Point(261, 212);
             this.BtRegistrarse.Name = "BtRegistrarse";
-            this.BtRegistrarse.Size = new System.Drawing.Size(203, 106);
+            this.BtRegistrarse.Size = new System.Drawing.Size(185, 102);
             this.BtRegistrarse.TabIndex = 2;
             this.BtRegistrarse.Text = "Registrarse";
             this.BtRegistrarse.UseVisualStyleBackColor = true;
