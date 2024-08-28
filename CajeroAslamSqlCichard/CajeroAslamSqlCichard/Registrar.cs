@@ -97,7 +97,7 @@ namespace CajeroAslamSqlCichard
 
             try
             {
-                SqlConnection Conexion = new SqlConnection("Server=CAMILO\\SQLEXPRESS;Database=CajeroCAM; Integrated security=True");
+                SqlConnection Conexion = new SqlConnection("Server=CAMILO\\SQLEXPRESS;Database=CajeroCAM;persist security info=True; Integrated security=True");
                 SqlCommand Realiza = new SqlCommand();
                 Realiza.Connection = Conexion;
                 Realiza.CommandText = "insert into Registrar (Nombre,Apellido,Edad,TipDocumento,Documento,Clave) values(@Nombre,@Apellido,@Edad,@TipDocumento,@Documento,@Clave)";
