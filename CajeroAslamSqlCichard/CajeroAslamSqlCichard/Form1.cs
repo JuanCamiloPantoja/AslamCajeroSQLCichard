@@ -17,9 +17,11 @@ namespace CajeroAslamSqlCichard
             InitializeComponent();
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void BtRegistrarse_Click(object sender, EventArgs e)
         {
-
+            Registrar registrar = new Registrar();
+            registrar.Show();
+            this.Hide();
         }
     }
 }
