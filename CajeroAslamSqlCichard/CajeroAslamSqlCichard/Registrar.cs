@@ -110,7 +110,7 @@ namespace CajeroAslamSqlCichard
                 Realiza.Parameters.AddWithValue("@Clave", textBox5.Text);
                 Conexion.Open();
                 Realiza.ExecuteNonQuery();
-                string cadena = "select top 1 * from Registrar order by NumCuenta desc ";
+                string cadena = "select top 1 * from Registrar order by NumCuenta desc";
                 SqlCommand comando = new SqlCommand(cadena, Conexion);
                 SqlDataReader registros = comando.ExecuteReader();
                 if (registros.Read())
