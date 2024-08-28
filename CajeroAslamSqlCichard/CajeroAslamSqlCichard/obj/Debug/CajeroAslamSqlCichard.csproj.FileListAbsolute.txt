@@ -9,3 +9,6 @@ C:\Users\Ash20\OneDrive\Escritorio\AslamCajeroSqlCichard\CajeroAslamSqlCichard\C
 C:\Users\Ash20\OneDrive\Escritorio\AslamCajeroSqlCichard\CajeroAslamSqlCichard\CajeroAslamSqlCichard\obj\Debug\CajeroAslamSqlCichard.exe
 C:\Users\Ash20\OneDrive\Escritorio\AslamCajeroSqlCichard\CajeroAslamSqlCichard\CajeroAslamSqlCichard\obj\Debug\CajeroAslamSqlCichard.pdb
 C:\Users\Ash20\OneDrive\Escritorio\AslamCajeroSqlCichard\CajeroAslamSqlCichard\CajeroAslamSqlCichard\obj\Debug\CajeroAslamSqlCichard.Registrar.resources
+C:\Users\Ash20\OneDrive\Escritorio\AslamCajeroSqlCichard\CajeroAslamSqlCichard\CajeroAslamSqlCichard\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Ash20\OneDrive\Escritorio\AslamCajeroSqlCichard\CajeroAslamSqlCichard\CajeroAslamSqlCichard\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Ash20\OneDrive\Escritorio\AslamCajeroSqlCichard\CajeroAslamSqlCichard\CajeroAslamSqlCichard\obj\Debug\CajeroAs.58188B1B.Up2Date

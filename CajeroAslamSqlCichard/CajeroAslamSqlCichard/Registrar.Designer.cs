@@ -140,6 +140,7 @@
             this.btGuardarRegis.TabIndex = 10;
             this.btGuardarRegis.Text = "Guardar";
             this.btGuardarRegis.UseVisualStyleBackColor = true;
+            this.btGuardarRegis.Click += new System.EventHandler(this.btGuardarRegis_Click);
             // 
             // BtCancelar
             // 
